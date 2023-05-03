@@ -1,0 +1,14 @@
+Task1
+https://playground.tensorflow.org
+
+
+Task2
+https://www.cs.toronto.edu/~kriz/cifar.html
+
+
+Task3
+https://archive.ics.uci.edu/ml/datasets/spambase
+
+
+Task4
+https://archive.ics.uci.edu/ml/datasets/Communities+and+Crime

@@ -1,0 +1,5 @@
+Cats and Dogs Dataset:
+https://drive.google.com/drive/folders/1FueovPO2vtODg8jdPUfWjvjuAfkuQUKr?usp=sharing
+
+Cifar10 Dataset:
+https://drive.google.com/drive/folders/1MpnT6--j9fAamfTE-xDXedvfgY0v3z1m?usp=sharing
